@@ -1,7 +1,7 @@
 package PositiveAndNegative;
 import java.util.Scanner;
 
-public class PositiveAndNegative {
+public class separatedSumsOfEvenAndOddNum {
 
     public static void main(String[] args) {
         // Create a Scanner object to read user input
